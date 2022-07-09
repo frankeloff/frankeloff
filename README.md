@@ -1,9 +1,9 @@
-    ![Header](https://github.com/frankeloff/frankeloff/blob/main/assets/PYBr.gif)
+![Header](https://github.com/frankeloff/frankeloff/blob/main/assets/PYBr.gif)
 
-    About me
+About me
 
-    Student of the Moscow Aviation Institute
+Student of the Moscow Aviation Institute
 
-    Languages and Tools
+Languages and Tools
 
-    Follow Me
+Follow Me
