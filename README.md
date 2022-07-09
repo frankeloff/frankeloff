@@ -18,3 +18,15 @@
 ### Follow Me
 [![VK](https://img.shields.io/badge/-VK-0D1117?style=for-the-badge&logo=VK)](https://vk.com/frankel0ff)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-0D1117?style=for-the-badge&logo=TELEGRAM)](https://t.me/frankeloff)
+
+<p>
+  <br>
+</p>
+
+ <center><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=frankeloff&show_icons=true&theme=radical" /></a></center>
+
+<p>
+  <br>
+</p>
+
+<center><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankeloff&layout=compact&show_icons=true&theme=radical" /></a></center>
