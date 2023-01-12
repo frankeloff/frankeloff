@@ -1,7 +1,3 @@
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=frankeloff&show_icons=true&theme=radical" /></a><p align="center">
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankeloff&layout=compact&show_icons=true&theme=radical" /></a><p align="center">
-
 <p><br></p>
 
 ### 👋 Hello! I'm Student of the Moscow Aviation Institute
